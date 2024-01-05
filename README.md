@@ -3,7 +3,7 @@
 Welcome to the Machine Learning Repository! This repository is a collection of machine learning projects and algorithms. Whether you are a beginner or an experienced practitioner, you'll find valuable materials to enhance your understanding and skills in the field of machine learning.
 
 ## Algorithms
-![Algorithm](path/to/your/image.png)
+![Algorithm](https://github.com/Shivani-Sharma-23/Machine_Learning/blob/main/Ml.jpg)
 
 
 ## Resources

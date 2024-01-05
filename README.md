@@ -15,7 +15,7 @@ Welcome to the Machine Learning Repository! This repository is a collection of m
 
 ## Contribution
 
-If you'd like to contribute to this repository.
+If you'd like to contribute to this repository.Please Contribute!
 
 
 ## Happy coding and learning! 🚀
